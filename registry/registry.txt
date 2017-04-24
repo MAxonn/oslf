@@ -1,0 +1,9 @@
+# 1. Short stories
+# 2. Novels
+# 3. Games
+
+## 2017
+
+Title: Stories from the Continuum
+OSL Repository location: https://github.com/MAxonn/stories-from-the-continuum/tree/master/short-stories/02017-001-stories-from-the-continuum
+State: In progress @ Draft 0.1
