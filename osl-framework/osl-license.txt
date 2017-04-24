@@ -19,7 +19,7 @@ It is HIGHLY recommended that authors keep copyright for their work.
 
 Any Work that borrows from this repository MUST maintain and propagate the history.txt file which shows the list of authors that contributed to the Work.
 
-If the Work is printed, the entire content of the history.txt MUST be printed BEFORE the literary text. If the history.txt is longer than 5000 words, it may be shortened to a list of authors. If it is still longer than 5000 words, it MUST list the first 5000 words and then it must link to at least TWO online versions of the file, one of which must be stored in a future-proof location such as the Registry of Works of the Open Source Literature Foundation's located at 
+If the Work is printed, the entire content of the history.txt MUST be printed BEFORE the literary text. If the history.txt is longer than 5000 words, it may be shortened to a list of authors. If it is still longer than 5000 words, it MUST list the first 5000 words and then it must link to at least TWO online versions of the file, one of which must be stored in a future-proof location such as the Registry of Works of the Open Source Literature Foundation's located at https://github.com/MAxonn/oslf/tree/master/registry
 
 4. Profit Sharing
 

@@ -6,4 +6,5 @@
 
 Title: Stories from the Continuum
 OSL Repository location: https://github.com/MAxonn/stories-from-the-continuum/tree/master/short-stories/02017-001-stories-from-the-continuum
+History location: /histories/short-stories/02017-001-stories-from-the-continuum/history.txt
 State: In progress @ Draft 0.1
